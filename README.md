@@ -1,6 +1,9 @@
-### Hi there, I'm Tayyab 👋
+<div align="center">
+    <h1> Hi there, I'm Tayyab 👋</h1>
+</div>
 
 <!--
+### Hi there, I'm Tayyab 👋
 **tayyabwahid/tayyabwahid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
